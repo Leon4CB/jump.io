@@ -1,0 +1,21 @@
+body {
+display: flex;
+flex-direction: column;
+justify-content: center;
+position: relative;
+height: 600px;
+background: url(6.jpg) no-repeat;
+-moz-background-size: 100%;
+-webkit-background-size: 100%;
+-o-background-size: 100%;
+background-size: 100%;
+ padding-top: 100px;
+}
+* {
+ margin: 0;
+ padding: 0;
+}
+canvas {
+    height: 600px;
+    width: 100%;
+}
