@@ -3,9 +3,10 @@ display: flex;
 flex-direction: column;
 justify-content: center;
 position: relative;
-background: url(5.jpg) no-repeat;
+background: url(6.1.jpg) no-repeat;
 background-size: 100%;
 padding-top: 130px;
+margin-top: 20px;
 }
 * {
  margin: 0;
