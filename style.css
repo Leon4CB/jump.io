@@ -3,7 +3,6 @@ display: flex;
 flex-direction: column;
 justify-content: center;
 position: relative;
-height: 600px;
 background: url(6.jpg) no-repeat;
 background-size: 100%;
  padding-top: 100px;
@@ -13,6 +12,5 @@ background-size: 100%;
  padding: 0;
 }
 canvas {
-    height: 1000px;
     width: 100%;
 }
