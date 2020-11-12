@@ -9,6 +9,7 @@ background: url(5.jpg) no-repeat;
 -webkit-background-size: 100%;
 -o-background-size: 100%;
 background-size: 100%;
+ padding-top: 100px;
 }
 * {
  margin: 0;
